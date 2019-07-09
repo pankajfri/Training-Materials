@@ -65,5 +65,14 @@ class SalesPerson:Employee {
 
     char product[];
 
+    int customerHandlingID;
 
-}
+
+public :
+ SalesPerson(char &pdt,int empNo,float sal,char *name):Employee(empNo,sal,*name){
+    strcpy(product,&pdt);
+ }
+
+
+
+};
