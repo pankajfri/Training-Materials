@@ -1,0 +1,126 @@
+\documentclass[hyperref={bookmarks=false},aspectratio=169]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{standalone}
+% ---------------  Define theme and color scheme  -----------------
+\usetheme[sidebarleft]{CEIT}  % 3 options: minimal, sidebarleft, sidebarright
+
+%\setbeamertemplate{footline}[frame number]
+
+% ------------  Information on the title page  --------------------
+\title[PPT Title]
+{\bfseries{PPT Title}}
+
+\subtitle{A brief overview}
+
+\author[TrainerName] %\& Managed]
+{TrainerName\inst{1} } %\and Managed\inst{2}}
+
+\institute[CEIT]
+{
+  \inst{1}
+  Trainer\\
+  Centre of Excellence in IT,PNG
+ % \and
+ % \inst{2}
+ % Trainer\\
+ % Centre of Excellence in IT,PNG
+}
+
+\date[CEIT, 2014]
+{Centre of Excellence in IT,PNG October 2019}
+%------------------------------------------------------------
+
+%------------------------------------------------------------
+%The next block of commands puts the table of contents at the 
+%beginning of each section and highlights the current section:
+
+\AtBeginSection[]
+{
+  \begin{frame}
+    \frametitle{Table of Contents}
+    \tableofcontents[currentsection]
+  \end{frame}
+}
+
+%------------------------------------------------------------
+
+
+\begin{document}
+
+\frame{\titlepage}  % Creates title page
+
+%---------   table of contents after title page  ------------
+\begin{frame}
+\frametitle{Table of Contents}
+\tableofcontents
+\end{frame}
+%---------------------------------------------------------
+
+
+\input{Slides/Section1.tex}
+
+%---------------------------------------------------------
+
+
+%---------------------------------------------------------
+%\begin{frame}  % Example of the \pause command
+%This slide is to test mathematical formulas \pause
+%
+%$$E=mc^2$$ \pause
+%
+%as well as the ``pause'' functionality
+%\end{frame}
+%---------------------------------------------------------
+
+\section{Caltech student pranks}
+
+%---------------------------------------------------------
+%Highlighting text
+\begin{frame}
+\frametitle{Caltech student pranks}
+
+This is a brief introduction of \alert{Caltech pranks}.
+
+\begin{block}{Definition}
+Prank: a practical joke or mischievous act
+\end{block}
+
+\begin{alertblock}{Axiom}
+Caltech pranks are a key part of the institute's history and identity.
+\end{alertblock}
+
+\begin{examples}
+See the next slide for a prank example.
+\end{examples}
+\end{frame}
+%---------------------------------------------------------
+
+
+%---------------------------------------------------------
+%Two columns
+\begin{frame}
+\frametitle{Hollywood sign}
+
+\begin{columns}
+
+\column{0.45\textwidth}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=\columnwidth]{images/CEIT_Logo_300X300.png}
+    \caption{``Hollywood is still mad about that,'' says Autumn Looijen, author of \emph{Legends of Caltech III: Techer In the Dark.} \tiny{(Photo downloaded from: http://brennen.caltech.edu/autobiography/automaster2.htm)}}
+    \label{fig:hollywood_prank}
+\end{figure}
+
+
+\column{0.55\textwidth}
+In May 1987, undergraduates from Page and Ricketts houses combined forces (and several hundred dollars) to purchase enough black and white plastic, transformed the Hollywood sign to read ``Caltech''.
+
+\small{(Reference: http://www.admissions.caltech.edu/pranks)}
+
+\end{columns}
+\end{frame}
+%---------------------------------------------------------
+
+
+\end{document}
