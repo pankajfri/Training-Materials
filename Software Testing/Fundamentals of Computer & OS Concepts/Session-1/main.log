@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.10.3)  3 OCT 2019 16:46
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.10.3)  4 OCT 2019 16:50
 entering extended mode
 **./main.tex
 (main.tex
@@ -828,10 +828,6 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 48.
 LaTeX Info: Redefining \pageref on input line 48.
 LaTeX Info: Redefining \nameref on input line 48.
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 48.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
@@ -923,72 +919,96 @@ LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
 (Font)              Font shape `TU/lmss/m/sl' tried instead on input line 50.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <5> not available
 (Font)              Font shape `TU/lmss/m/sl' tried instead on input line 50.
-File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
-<images/CEIT_Logo_300X300.png>
-File: images/logo_upng.png Graphic file (type bmp)
-<images/logo_upng.png>
-File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
-<images/C-DAC_LogoTransp.png>
- [1
 
-] (main.toc)
-File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
-<images/CEIT_Logo_300X300.png>
-File: images/logo_upng.png Graphic file (type bmp)
-<images/logo_upng.png>
-File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
-<images/C-DAC_LogoTransp.png>
-
-[2
-
-] (Slides/Section1.tex (main.toc)
-File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
-<images/CEIT_Logo_300X300.png>
-File: images/logo_upng.png Graphic file (type bmp)
-<images/logo_upng.png>
-File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
-<images/C-DAC_LogoTransp.png>
- [3
-
-]
-File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
-<images/CEIT_Logo_300X300.png>
-File: images/logo_upng.png Graphic file (type bmp)
-<images/logo_upng.png>
-File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
-<images/C-DAC_LogoTransp.png>
- [4
-
-]
-File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
-<images/CEIT_Logo_300X300.png>
-File: images/logo_upng.png Graphic file (type bmp)
-<images/logo_upng.png>
-File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
-<images/C-DAC_LogoTransp.png>
- [5
-
-]
-File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
-<images/CEIT_Logo_300X300.png>
-File: images/logo_upng.png Graphic file (type bmp)
-<images/logo_upng.png>
-File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
-<images/C-DAC_LogoTransp.png>
- [6
-
-]) (Slides/Section1_1.tex
-File: figures/fig1.png Graphic file (type bmp)
-<figures/fig1.png>
-
-Overfull \hbox (13.26869pt too wide) in paragraph at lines 10--10
- [] 
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
  []
 
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 10.
+File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
+<images/CEIT_Logo_300X300.png>
+File: images/logo_upng.png Graphic file (type bmp)
+<images/logo_upng.png>
+File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
+<images/C-DAC_LogoTransp.png>
+[1
 
-Overfull \vbox (33.33752pt too high) detected at line 10
+] (main.toc)
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
+
+File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
+<images/CEIT_Logo_300X300.png>
+File: images/logo_upng.png Graphic file (type bmp)
+<images/logo_upng.png>
+File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
+<images/C-DAC_LogoTransp.png>
+[2
+
+] (Slides/slide1.tex (main.toc)
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
+
+File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
+<images/CEIT_Logo_300X300.png>
+File: images/logo_upng.png Graphic file (type bmp)
+<images/logo_upng.png>
+File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
+<images/C-DAC_LogoTransp.png>
+[3
+
+]
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 33.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <7> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 33.
+
+Overfull \vbox (258.26427pt too high) detected at line 33
+ []
+
+
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
+
+File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
+<images/CEIT_Logo_300X300.png>
+File: images/logo_upng.png Graphic file (type bmp)
+<images/logo_upng.png>
+File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
+<images/C-DAC_LogoTransp.png>
+[4
+
+]) (Slides/slide2.tex (main.toc)
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
+
+File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
+<images/CEIT_Logo_300X300.png>
+File: images/logo_upng.png Graphic file (type bmp)
+<images/logo_upng.png>
+File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
+<images/C-DAC_LogoTransp.png>
+[5
+
+]
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
+
+File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
+<images/CEIT_Logo_300X300.png>
+File: images/logo_upng.png Graphic file (type bmp)
+<images/logo_upng.png>
+File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
+<images/C-DAC_LogoTransp.png>
+[6
+
+]
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
  []
 
 File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
@@ -999,34 +1019,138 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 <images/C-DAC_LogoTransp.png>
 [7
 
-]) (Slides/Section2.tex (main.toc)
+]
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
+
 File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
 <images/CEIT_Logo_300X300.png>
 File: images/logo_upng.png Graphic file (type bmp)
 <images/logo_upng.png>
 File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 <images/C-DAC_LogoTransp.png>
- [8
+[8
 
 ]
-File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
-<images/CEIT_Logo_300X300.png>
-File: images/logo_upng.png Graphic file (type bmp)
-<images/logo_upng.png>
-File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
-<images/C-DAC_LogoTransp.png>
- [9
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
 
-]) (Slides/Section2_1.tex
-File: figures/fig1.png Graphic file (type bmp)
-<figures/fig1.png>
 File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
 <images/CEIT_Logo_300X300.png>
 File: images/logo_upng.png Graphic file (type bmp)
 <images/logo_upng.png>
 File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 <images/C-DAC_LogoTransp.png>
- [10
+[9
+
+]
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
+
+File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
+<images/CEIT_Logo_300X300.png>
+File: images/logo_upng.png Graphic file (type bmp)
+<images/logo_upng.png>
+File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
+<images/C-DAC_LogoTransp.png>
+[10
+
+]
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
+
+File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
+<images/CEIT_Logo_300X300.png>
+File: images/logo_upng.png Graphic file (type bmp)
+<images/logo_upng.png>
+File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
+<images/C-DAC_LogoTransp.png>
+[11
+
+]
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
+
+File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
+<images/CEIT_Logo_300X300.png>
+File: images/logo_upng.png Graphic file (type bmp)
+<images/logo_upng.png>
+File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
+<images/C-DAC_LogoTransp.png>
+[12
+
+]
+File: figures/fig2.png Graphic file (type bmp)
+<figures/fig2.png>
+
+Overfull \hbox (13.20538pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+
+Overfull \vbox (18.86584pt too high) detected at line 25
+ []
+
+
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
+
+File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
+<images/CEIT_Logo_300X300.png>
+File: images/logo_upng.png Graphic file (type bmp)
+<images/logo_upng.png>
+File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
+<images/C-DAC_LogoTransp.png>
+[13
+
+]) (Slides/slide3.tex (main.toc)
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
+
+File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
+<images/CEIT_Logo_300X300.png>
+File: images/logo_upng.png Graphic file (type bmp)
+<images/logo_upng.png>
+File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
+<images/C-DAC_LogoTransp.png>
+[14
+
+]
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
+
+File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
+<images/CEIT_Logo_300X300.png>
+File: images/logo_upng.png Graphic file (type bmp)
+<images/logo_upng.png>
+File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
+<images/C-DAC_LogoTransp.png>
+[15
+
+]) (Slides/history.tex
+Overfull \vbox (237.18718pt too high) detected at line 19
+ []
+
+
+Overfull \hbox (1.91pt too wide) has occurred while \output is active
+ []\TU/lmss/m/n/6 Characteristic 
+ []
+
+File: images/CEIT_Logo_300X300.png Graphic file (type bmp)
+<images/CEIT_Logo_300X300.png>
+File: images/logo_upng.png Graphic file (type bmp)
+<images/logo_upng.png>
+File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
+<images/C-DAC_LogoTransp.png>
+[16
 
 ])
 \tf@nav=\write5
@@ -1038,20 +1162,19 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 \tf@snm=\write7
 \openout7 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 70.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 70.
-
-(main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 70.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 70.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
+ (main.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 78.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
- 21770 strings out of 427669
- 385206 string characters out of 3149215
- 464490 words of memory out of 3000000
- 25374 multiletter control sequences out of 15000+200000
- 9726 words of font info for 53 fonts, out of 3000000 for 9000
+ 21759 strings out of 427669
+ 384680 string characters out of 3149215
+ 477882 words of memory out of 3000000
+ 25358 multiletter control sequences out of 15000+200000
+ 11409 words of font info for 63 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,18n,80p,800b,726s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on main.pdf (10 pages).
+Output written on main.pdf (16 pages).
