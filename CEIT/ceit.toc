@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{About CEIT}{3}{0}{1}
+\beamer@sectionintoc {2}{About UPNG}{11}{0}{2}
+\beamer@sectionintoc {3}{About C-DAC}{13}{0}{3}
+\beamer@sectionintoc {4}{Certificate Courses}{17}{0}{4}
+\beamer@sectionintoc {5}{PG Diploma Courses}{19}{0}{5}
