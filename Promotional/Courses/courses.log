@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.10.8)  8 OCT 2019 16:23
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.10.8)  9 OCT 2019 10:24
 entering extended mode
 **./courses.tex
 (courses.tex
@@ -998,6 +998,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [6
 
 ]
+File: figures/course_iot.jpg Graphic file (type bmp)
+<figures/course_iot.jpg>
+
+Overfull \hbox (25.94534pt too wide) in paragraph at lines 26--26
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1024,6 +1032,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [8
 
 ]
+File: figures/course_jp.jpg Graphic file (type bmp)
+<figures/course_jp.jpg>
+
+Overfull \hbox (5.94533pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1037,6 +1053,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [9
 
 ]
+File: figures/course_msnet.jpg Graphic file (type bmp)
+<figures/course_msnet.jpg>
+
+Overfull \hbox (25.94534pt too wide) in paragraph at lines 51--51
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1050,6 +1074,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [10
 
 ]
+File: figures/course_awt.jpg Graphic file (type bmp)
+<figures/course_awt.jpg>
+
+Overfull \hbox (25.94534pt too wide) in paragraph at lines 76--76
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1063,6 +1095,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [11
 
 ]
+File: figures/course_mwd.jpg Graphic file (type bmp)
+<figures/course_mwd.jpg>
+
+Overfull \hbox (25.94534pt too wide) in paragraph at lines 100--100
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1089,6 +1129,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [13
 
 ]
+File: figures/course_ap.jpg Graphic file (type bmp)
+<figures/course_ap.jpg>
+
+Overfull \hbox (25.94534pt too wide) in paragraph at lines 26--26
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1115,6 +1163,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [15
 
 ]
+File: figures/course_bdt.jpg Graphic file (type bmp)
+<figures/course_bdt.jpg>
+
+Overfull \hbox (5.94533pt too wide) in paragraph at lines 26--26
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1128,6 +1184,9 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [16
 
 ]
+File: figures/course_bda.jpg Graphic file (type bmp)
+<figures/course_bda.jpg>
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1154,6 +1213,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [18
 
 ]
+File: figures/course_dbm.jpg Graphic file (type bmp)
+<figures/course_dbm.jpg>
+
+Overfull \hbox (25.94534pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1180,6 +1247,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [20
 
 ]
+File: figures/course_ns.jpg Graphic file (type bmp)
+<figures/course_ns.jpg>
+
+Overfull \hbox (25.94534pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1193,6 +1268,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [21
 
 ]
+File: figures/course_ehis.jpg Graphic file (type bmp)
+<figures/course_ehis.jpg>
+
+Overfull \hbox (25.94534pt too wide) in paragraph at lines 49--49
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1219,6 +1302,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [23
 
 ]
+File: figures/course_lsa.jpg Graphic file (type bmp)
+<figures/course_lsa.jpg>
+
+Overfull \hbox (5.94533pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1232,6 +1323,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [24
 
 ]
+File: figures/course_na.jpg Graphic file (type bmp)
+<figures/course_na.jpg>
+
+Overfull \hbox (5.94533pt too wide) in paragraph at lines 50--50
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1245,6 +1344,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [25
 
 ]
+File: figures/course_dcn.jpg Graphic file (type bmp)
+<figures/course_dcn.jpg>
+
+Overfull \hbox (5.94533pt too wide) in paragraph at lines 75--75
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1271,6 +1378,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [27
 
 ]
+File: figures/course_st.jpg Graphic file (type bmp)
+<figures/course_st.jpg>
+
+Overfull \hbox (25.94534pt too wide) in paragraph at lines 25--25
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1284,6 +1399,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [28
 
 ]
+File: figures/course_oa.jpg Graphic file (type bmp)
+<figures/course_oa.jpg>
+
+Overfull \hbox (25.94534pt too wide) in paragraph at lines 50--50
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1297,6 +1420,14 @@ File: images/C-DAC_LogoTransp.png Graphic file (type bmp)
 [29
 
 ]
+File: figures/course_it.jpg Graphic file (type bmp)
+<figures/course_it.jpg>
+
+Overfull \hbox (25.94534pt too wide) in paragraph at lines 76--76
+ [] 
+ []
+
+
 Overfull \hbox (1.574pt too wide) has occurred while \output is active
  []\TU/lmss/m/n/6 Infrastructure 
  []
@@ -1326,12 +1457,12 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 78.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
- 21803 strings out of 427669
- 384637 string characters out of 3149215
+ 21853 strings out of 427669
+ 385558 string characters out of 3149215
  471853 words of memory out of 3000000
- 25380 multiletter control sequences out of 15000+200000
+ 25411 multiletter control sequences out of 15000+200000
  9726 words of font info for 53 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 56i,18n,80p,803b,720s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,18n,80p,803b,1112s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on courses.pdf (30 pages).
