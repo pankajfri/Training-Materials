@@ -1,3 +1,0 @@
-\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{Characteristic of Computers}{6}{0}{2}
-\beamer@sectionintoc {3}{Introduction to Computer Hardare and Softwares}{15}{0}{3}
