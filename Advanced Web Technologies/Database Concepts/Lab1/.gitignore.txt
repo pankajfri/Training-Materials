@@ -1,0 +1,6 @@
+*.aux
+*.nav
+*.synctex
+*.toc
+*.snm
+psheader.txt
